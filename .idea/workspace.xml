@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="de697cf8-719f-4cea-8c32-85dc29f783b5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PDFCombinerAndSplitter.py" beforeDir="false" afterPath="$PROJECT_DIR$/PDFCombinerAndSplitter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free_simple_pdf_combiner.py" beforeDir="false" afterPath="$PROJECT_DIR$/free_simple_pdf_combiner.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

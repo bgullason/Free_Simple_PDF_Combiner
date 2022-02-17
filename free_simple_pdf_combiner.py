@@ -35,6 +35,7 @@ log_width = 60
 log_counter = 0
 logs_enabled = False
 
+
 def split(path, name_of_split):
     pdf = PyPDF2.PdfFileReader(path)
     for page in range(pdf.getNumPages()):
@@ -44,6 +45,7 @@ def split(path, name_of_split):
         output = f'{name_of_split}_({page}).pdf'
         with open(output, 'wb') as output_pdf:
             pdf_writer.write(output_pdf)
+
 
 def merge_pdfs(paths, output):
     pdf_writer = PyPDF2.PdfFileWriter()
@@ -57,6 +59,7 @@ def merge_pdfs(paths, output):
     # Write out the merged PDF
     with open(output, 'wb') as out:
         pdf_writer.write(out)
+
 
 def _log(new_log_line):
     now = datetime.now()
