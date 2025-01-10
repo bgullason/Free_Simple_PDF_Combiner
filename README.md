@@ -1,5 +1,5 @@
 # Free Simple PDF Combiner
-Combine and split PDF files for free!  
+*I am not actively maintaining this application. Use at your own risk.*  
 
 #### Build Requirements:
 PySimpleGUI 4.60.5  
