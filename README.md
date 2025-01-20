@@ -1,7 +1,13 @@
 # Free Simple PDF Combiner
 *I am not actively maintaining this application. Use at your own risk.*  
 
-#### Build Requirements:
+#### Download the release here:  
+https://github.com/bgullason/Free_Simple_PDF_Combiner/releases    
+
+
+    
+## Build instructions
+#### Requirements:
 PySimpleGUI 4.60.5  
 PyPDF2 2.12.1  
 
